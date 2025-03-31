@@ -1,6 +1,6 @@
-data <- read.csv("data.csv", header = TRUE, sep = ",")
+Data <- read.csv("Data.csv", header = TRUE, sep = ",")
 
-head(data)
+head(Data)
 
 Data <- mtcars
 head(Data)
